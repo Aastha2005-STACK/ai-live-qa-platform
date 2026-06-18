@@ -25,6 +25,7 @@ export default function RootLayout({
               <Link href="/dashboard">Dashboard</Link>
               <Link href="/ask-question">Ask Question</Link>
               <Link href="/login">Login</Link>
+              <Link href="/signup">Sign Up</Link>
             </div>
           </div>
         </nav>
